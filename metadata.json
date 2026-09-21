@@ -1,0 +1,6 @@
+{
+  "name": "ApexCraft Luxury Car Wallpapers",
+  "description": "AI-powered luxury modified car wallpaper generator with high-resolution output, instant lock/home screen applicator, and offline gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
